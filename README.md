@@ -2,7 +2,7 @@
 
 ![Image](coinbase.jpg)
 
-## Alternative Finance - Cryptocurrency
+## Alternative Finance - Cryptocurrency / Payment Services
 
 * When was the company incorporated?
 
@@ -45,6 +45,9 @@
 
     For the retail consumers:
 
+    ![Image](coinbasepro.jpg)
+    ![Image](coinbasewallet.jpg)
+
         - Coinbase an application to view and control their funds and assets
 
         - Coinbase Pro, a professional trading platform
@@ -57,7 +60,7 @@
 
         - Coinbase Prime, a trading platform
 
-        - Coinbase custody, a service that enables coinbase to securely hold assets on    behalf of clients
+        - Coinbase custody, a service that enables coinbase to securely hold assets on behalf of clients
 
     Other products:
 
