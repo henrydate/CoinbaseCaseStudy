@@ -43,10 +43,13 @@
 
     -   They currently have separate product offering to retail customers and institutional clients.
 
-    For the retail consumers:
+   
 
-    ![Image](coinbasepro.png)
+
     ![Image](coinbasewallet.png)
+
+
+    For the retail consumers:
 
         - Coinbase an application to view and control their funds and assets
 
@@ -55,6 +58,10 @@
         - Coinbase wallet, a decentralised application that plugs into web3
 
         - Coinbase NFT which is a marketplace to collect and trade non-fungible tokens
+
+
+    ![Image](coinbasepro.png)
+
 
     For the institutions:
 
