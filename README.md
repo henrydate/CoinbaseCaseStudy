@@ -6,17 +6,17 @@
 
 * When was the company incorporated?
 
-    -     Coinbase was established in 2012 by Brian Armstrong and Fred Ehrsam.
+    -   Coinbase was established in 2012 by Brian Armstrong and Fred Ehrsam.
 
 * How did the idea for the company come about?
 
-    -     Brian always wanted to be a successful entrepreneur. From a young age he set wild career goals to chase, the wildest being be the founder of a billion dollar company. This initial product offering only consisted of a Coinbase Cryptocurrency Wallet.
+    -   Brian always wanted to be a successful entrepreneur. From a young age he set wild career goals to chase, the wildest being be the founder of a billion dollar company. This initial product offering only consisted of a Coinbase Cryptocurrency Wallet.
 
 * How is the company funded? How much funding have they received?
 
-    -     The company was granted a $150,000 USD start-up grant from Y Combinator back in 2012. 
+    -   The company was granted a $150,000 USD start-up grant from Y Combinator back in 2012. 
     -   In May 2013 another $5,000,000U USD was granted in a series A by Fred Wilson from Union Square Ventures. 
-    -     In December 2013 Andreessen Horowitz granted them an additional $25,000,000 USD.
+    -   In December 2013 Andreessen Horowitz granted them an additional $25,000,000 USD.
     -   In January 2015 they received $75,000,000 USD from Draper Fisher Jurvetson and several other banks.
 
 ## Business Activities
@@ -43,29 +43,29 @@
 
     -   They currently have separate product offering to retail customers and institutional clients.
 
-For the retail consumers:
+    For the retail consumers:
 
-	- Coinbase an application to view and control their funds and assets
+        - Coinbase an application to view and control their funds and assets
 
-	- Coinbase Pro, a professional trading platform
+        - Coinbase Pro, a professional trading platform
 
-	- Coinbase wallet, a decentralised application that plugs into web3
+        - Coinbase wallet, a decentralised application that plugs into web3
 
-	- Coinbase NFT which is a marketplace to collect and trade non-fungible tokens
+        - Coinbase NFT which is a marketplace to collect and trade non-fungible tokens
 
-For the institutions:
+    For the institutions:
 
-	- Coinbase Prime, a trading platform
+        - Coinbase Prime, a trading platform
 
-	- Coinbase custody, a service that enables coinbase to securely hold assets on    behalf of clients
+        - Coinbase custody, a service that enables coinbase to securely hold assets on    behalf of clients
 
-Other products:
+    Other products:
 
-	- USD Coin, coinbase's own stablecoin
+        - USD Coin, coinbase's own stablecoin
 
-	- Coinbase Card which is a VISA card allowing the spending of cryptocurrency
+        - Coinbase Card which is a VISA card allowing the spending of cryptocurrency
 
-	- Coinbase Earn, a staking service of yield generation for the customer to use their assets 
+        - Coinbase Earn, a staking service of yield generation for the customer to use their assets 
 
 ## Landscape
 
