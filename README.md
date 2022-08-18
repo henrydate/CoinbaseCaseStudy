@@ -45,8 +45,8 @@
 
     For the retail consumers:
 
-    ![Image](coinbasepro.jpg)
-    ![Image](coinbasewallet.jpg)
+    ![Image](coinbasepro.png)
+    ![Image](coinbasewallet.png)
 
         - Coinbase an application to view and control their funds and assets
 
