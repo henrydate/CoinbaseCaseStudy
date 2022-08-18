@@ -92,6 +92,8 @@
     -   Its main competitors are other exchanges such as FTX, Binance and Kracken. 
     -   There are dozens of other mid-tier exchanges that also consolidate a fair chunk of market share such as Kucoin, Gate.io, OKX, Huobi and the list goes on.
 
+![Image](ftx.jpg)   ![Image](binance.jpg)
+
 ## Results
 
 * What has been the business impact of this company so far?
