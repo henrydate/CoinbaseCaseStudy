@@ -1,3 +1,3 @@
 # CoinbaseCaseStudy
 Homework Week 1
-![Coinbase](Coinbase-Logo.wine)
+![Image](Coinbase-Logo.png)
