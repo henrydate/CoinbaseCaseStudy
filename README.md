@@ -138,5 +138,10 @@
 
     -   This technology is required to give consumers experience with the confusing and intricate art of transferring funds across from different blockchains, address and wallets. By offering the hands on learning the customer could then trust their judgement when going through the motions with their actual assets. 
 
+## Contributors
+> Email: henrydate1@gmail.com |
+> [GitHub](https://github.com/henrydate) |
+> [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
+---
 
